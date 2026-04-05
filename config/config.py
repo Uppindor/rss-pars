@@ -9,4 +9,6 @@ RSS_FEEDS = [
 ]
 
 VK_GROUPS = ["etorostovnadonu"]
+
+api_hash = ""
 NLP_MAX_LENGTH = 512
